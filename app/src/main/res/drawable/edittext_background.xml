@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#00FFFFFF"/> <!-- İçi saydam yap -->
+    <stroke android:color="#4e1371" android:width="2dp"/> <!-- Kenar çizgisi rengi ve kalınlığı -->
+    <corners android:radius="5dp"/> <!-- Köşelerin yuvarlatılma derecesi -->
+</shape>
